@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  ssr: true,
+  ssr: false,
   compatibilityDate: '2024-11-01',
   devtools: { enabled: false },
   modules: [
